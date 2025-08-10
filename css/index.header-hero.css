@@ -1,0 +1,11 @@
+.hero__title {
+  border: 3px solid var(--border-color);
+  padding: 10px 15px;  
+  color: var(--title-color);
+ }
+ .header__hero {
+  font-size: 20px;
+ }
+ .hero__description {
+   color: var(--text-color);
+ }
